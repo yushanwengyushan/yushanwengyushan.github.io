@@ -611,7 +611,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/YS.jpg") center center no-repeat;
+  background: url("img/YS.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -774,7 +774,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("img/testimonials-bg.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1307,7 +1307,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/testimonials/footer_stars.jpg") top center no-repeat;
+  background: url("img/testimonials/footer_stars.jpg") top center no-repeat;
   background-size: 100% 100%;
   color: #fff;
   font-size: 14px;
